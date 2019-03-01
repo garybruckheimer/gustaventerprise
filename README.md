@@ -19,9 +19,9 @@ Vision primitives, such as [`imageNet`](imageNet.h) for image recognition, [`det
 
 * [DIGITS Workflow](#digits-workflow) 
 * [System Setup](#system-setup)
-* [Building from Source on Jetson](#building-from-source-on-jetson)
+* [Building from Source on GUSTAV Enterprise](#building-from-source-on-jetson)
 * [Classifying Images with ImageNet](#classifying-images-with-imagenet)
-	* [Using the Console Program on Jetson](#using-the-console-program-on-jetson)
+	* [Using the Console Program on GUSTAV](#using-the-console-program-on-jetson)
 	* [Running the Live Camera Recognition Demo](#running-the-live-camera-recognition-demo)
 	* [Re-training the Network with DIGITS](#re-training-the-network-with-digits)
 	* [Downloading Image Recognition Dataset](#downloading-image-recognition-dataset)
