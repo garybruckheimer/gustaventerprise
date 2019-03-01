@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/garybruckheimer/gustaventerprise/master/docs/gen.jpg">
 
-# Deploying Machine Learning Models GUSTAV
-Welcome to our training and inference developer guide for rebotnix GUSTAV hardware solutions for machine learning. GUSTAV is a hardware solutions based exclusive on the NVIDIA Jetson® Platform. 
+# Machine Learning Models for GUSTAV Enterprise 
+Welcome to our training and inference developer guide for rebotnix technologies GUSTAV Enterprise hardware solutions for machine learning. GUSTAV is a embedded hardware solution and it is 100% compatible on the NVIDIA Jetson® Platform. 
 
 This repo uses NVIDIA **[TensorRT](https://developer.nvidia.com/tensorrt)** for efficiently deploying neural networks onto the embedded platform, improving performance and power efficiency using graph optimizations, kernel fusion, and half-precision FP16 on the Jetson.
 
