@@ -1,4 +1,4 @@
-<img src="https://github.com/garybruckheimer/gustaventerprise/raw/master/docs/images/gen.jpg">
+<img src="https://raw.githubusercontent.com/garybruckheimer/gustaventerprise/master/docs/gen.jpg">
 
 # Deploying Deep Learning
 Welcome to our training guide for inference and [deep vision](https://rawgit.com/dusty-nv/jetson-inference/master/docs/html/index.html) runtime library for NVIDIA **[DIGITS](https://github.com/NVIDIA/DIGITS)** and **[Jetson Xavier/TX1/TX2](http://www.nvidia.com/object/embedded-systems.html)**.
