@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/garybruckheimer/gustaventerprise/master/docs/gen.jpg">
 
-# Deploying Deep Learning
-Welcome to our training guide for inference and [deep vision](https://rawgit.com/dusty-nv/jetson-inference/master/docs/html/index.html) runtime library for NVIDIA **[DIGITS](https://github.com/NVIDIA/DIGITS)** and **[Jetson Xavier/TX1/TX2](http://www.nvidia.com/object/embedded-systems.html)**.
+# Deploying Machine Learning Models GUSTAV
+Welcome to our training and inference developer guide for rebotnix GUSTAV hardware solutions for machine learning. GUSTAV is a hardware solutions based exclusive on the NVIDIA Jetson® Platform. 
 
 This repo uses NVIDIA **[TensorRT](https://developer.nvidia.com/tensorrt)** for efficiently deploying neural networks onto the embedded platform, improving performance and power efficiency using graph optimizations, kernel fusion, and half-precision FP16 on the Jetson.
 
